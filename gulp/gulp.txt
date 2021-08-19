@@ -34,4 +34,4 @@ npm i gulp-sass --save-dev
             js: source_folder + '/js/script.js', 
             img: source_folder + '/img/**/*.{jpg, png, svg, gif, ico, webp}', 
         }
-    }
+    }eaw
